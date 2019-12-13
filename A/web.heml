@@ -1,0 +1,22 @@
+
+<html>
+	<head>
+		<title>Chrish</title>
+	</head>
+	<body  background="2.jpg">
+	  <center>	<h1 align="center"><font color=red size=6 face="宋体" >夕言溯梦</font></h1>
+		<hr color=pink width=500 size=1 align="center"/>
+		欢迎来到<font color=purple size=5 face="楷体" >夕</font>的茶馆：
+		<p align="right">Be hooked on 夕</p>
+		<p><font color=purple size=4 face="楷体" >1.与你初相遇，似是故人来。</font></p>
+		<img src="1.jpg" width="300" height="200"alt="图片加载失败" />
+		<p><font color=blue size=4 face="楷体" >2.春江花朝秋月夜，往往取酒还独倾。</font></p>
+		<img src="1.gif" width="300" height="200"alt="图片加载失败" />
+	        <hr/>
+		<a href="https://baike.so.com/doc/7864165-8138260.html">欢迎</a>
+		<a href="https://www.baidu.com/"><img src="2.png" width=100px></a>
+                <hr/>   
+	  </center>
+	</body>
+          
+</html>
